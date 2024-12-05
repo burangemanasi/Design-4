@@ -1,6 +1,6 @@
 //https://leetcode.com/discuss/interview-question/341818/Google-or-Onsite-or-Skip-Iterator
-//Time Complexity: O(n) -> Linear
-//Space Complexity: 0(1) -> storing in HashMap
+//Time Complexity: O(n) - Linear
+//Space Complexity: 0(1) - storing in HashMap
 
 class SkipIterator implements Iterator<Integer> {
 

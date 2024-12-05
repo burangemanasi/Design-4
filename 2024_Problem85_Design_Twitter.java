@@ -67,7 +67,7 @@ class Twitter {
     }
 }
 
-//slight modification - getNewsFeed(int userId)
+//Updated getNewsFeed(int userId)
 class Twitter {
     HashMap<Integer, HashSet<Integer>>  followeesMap; //userId: list of followeres
     HashMap<Integer, List<Tweet>>  tweetsMap; //tweetId: tweets object
